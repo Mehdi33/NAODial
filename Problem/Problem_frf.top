@@ -1,0 +1,5 @@
+topic: ~Problem()
+language: frf
+u:(J'ai [un une] [problème  achoppement obstacle difficulté embarras aléa gêne mal peine complication tourment tracas accroc]) Je vous écoute
+
+u:^private(Ma connexion pose problème)  Suivez mes instructions et dites suivant lorsque vous êtes prêt pour la prochaine étape. ^goto(connexion)

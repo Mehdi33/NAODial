@@ -1,0 +1,7 @@
+topic: ~TEST()
+language: frf
+
+u:([Salut Bonjour yo]) ["Salut, frère humain" "Bonjour, humain"]
+u:(["Quel est" "Dis moi"]ton nom) mon nom est NAO
+u:(["peux-tu" {"s'il te plait"}] t'assoire {maintenant}) ok je m'assois $assis=1
+u:(["peux-tu" {"s'il te plait"}] te lever {maintenant}) ok je me lève $debout=1
